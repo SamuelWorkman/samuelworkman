@@ -1,7 +1,7 @@
 ---
 title: "Samuel Workman"
 subtitle: "Scholar and Gentleman"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+description: "I am a Professor of Political Science and Director of the Institute for Policy Research and Public Affairs in the John D. 'Jay' Rockefeller School of Policy and Politics at West Virginia University. This is my personal home on the web. I am a native West Virginian and a connoisseur of mountains, rivers, good food, a gentleman's attire, and imbibing culture. Take a look around for projects, data, or recipes."
 images:
   - img/revoir.jpg
 image_left: true
