@@ -1,8 +1,6 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need
-  to do is add a valid recipient form-id to the front matter of this form page and
-  you're ready to receive submissions.
+description: To comment on or contact me about my work, projects, or potential partnerships and other opportunities, fill out the form to the write with your full name, email address, and a message.
 draft: false
 formspree_form_id: id-from-formspree
 layout: split-right

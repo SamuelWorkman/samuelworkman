@@ -98,10 +98,6 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.pinterest.com/samuelw0044/_saved/"
   [[params.social]]
-      icon      = "reddit" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.reddit.com/user/wv_workman/"
-  [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=kW67_MkAAAAJ&hl=en"
