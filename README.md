@@ -1,4 +1,6 @@
-### Hi there 👋
+### To Do:
+
+-[ ] Set up Formspree account and link to site.
 
 <!--
 **SamuelWorkman/samuelworkman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
