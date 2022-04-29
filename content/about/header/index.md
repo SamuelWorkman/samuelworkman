@@ -6,7 +6,6 @@ headline: |
   Sam Workman
 ---
 
-<!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+Welcome to my personal home on the world wide web. If you stay for a bit, you will find descriptions of current projects, data, and cocktail recipe or two.
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
+My blog addresses data science, rural politics and public policy, and especially Appalachia. 
