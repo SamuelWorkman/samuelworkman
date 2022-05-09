@@ -6,6 +6,6 @@ headline: |
   Sam Workman
 ---
 
-Welcome to my personal home on the world wide web. If you stay for a bit, you will find descriptions of current projects, data, and cocktail recipe or two.
+Welcome to my personal home on the web. If you stay for a bit, you will find descriptions of current projects, data, and cocktail recipe or two. I love travel, good food and wine, and curated gardens.
 
 My blog addresses data science, rural politics and public policy, and especially Appalachia. 
