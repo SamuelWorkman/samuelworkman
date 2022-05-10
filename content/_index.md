@@ -1,7 +1,11 @@
 ---
 title: "Samuel Workman"
 subtitle: "Scholar and Gentleman"
-description: "I am a Professor of Political Science and Director of the Institute for Policy Research and Public Affairs in the John D. 'Jay' Rockefeller School of Policy and Politics at West Virginia University. This is my personal home on the web. I am a native West Virginian and a connoisseur of nature, botanical gardens, old things, and imbibing culture. Take a look around for projects, data, or recipes."
+description: |
+
+  I am a Professor of Political Science and Director of the Institute for Policy Research and Public Affairs in the John D. 'Jay' Rockefeller School of Policy and Politics at West Virginia University. This is my personal home on the web. I am a native West Virginian and a connoisseur of nature, curated gardens, old things, and imbibing culture. Take a look around for thoughts, projects, data, or recipes. 
+
+  The quote above is what my father would tell me when I had done a good deed or been helpful---*Thank you son. You are a scholar and a gentleman.* I have retained the theme's placeholder image to the left because it is everything that I hold dear - good friends, good food and drink, and great conversation.
 images:
   - img/revoir.jpg
 image_left: true
