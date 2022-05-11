@@ -13,18 +13,16 @@ description: "This is a fully featured blog that supports categories, \ntags, se
   and pagination.\n"
 layout: list-sidebar
 show_author_byline: true
-show_button_links: false
+show_button_links: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Sam Workman
-  description: "This is a fully featured blog that supports categories,\ntags, series,
-    and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
-    the _index.md file in the /blog folder \nto edit this content. \n"
+  description: "The blog uses categories, tags, and series to group topics. The blog addresses public policy, data science, issues in Appalachia, rural politics and policy, and imbibing culture and reviews, and recommendations."
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  title: Pull up a chair and let Uncle Sam 
+  title: Pull up a chair for Uncle Sam 
 thumbnail_left: true
 title: A Blog That Works
 ---

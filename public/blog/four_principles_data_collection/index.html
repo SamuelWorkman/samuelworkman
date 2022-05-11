@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head>
+  
+                           
+     
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.97.3" />
+<title>Four Principles of Data Collection | Samuel Workman</title>
+
+
+<meta property="twitter:site" content="@SamuelGWorkman">
+<meta property="twitter:creator" content="@SamuelGWorkman">
+
+
+
+
+
+
+
+  
+    
+  
+<meta name="description" content="Whether in business, the public sector, or the academy, answering questions and making decisions depends first on information garnered in observation — recording and preserving data.">
+
+
+<meta property="og:site_name" content="Samuel Workman">
+<meta property="og:title" content="Four Principles of Data Collection | Samuel Workman">
+<meta property="og:description" content="Whether in business, the public sector, or the academy, answering questions and making decisions depends first on information garnered in observation — recording and preserving data." />
+<meta property="og:type" content="page" />
+<meta property="og:url" content="https://www.samuelworkman.org/blog/four_principles_data_collection/" />
+<meta property="og:locale" content="en">
+
+
+
+
+    
+        <meta property="og:image" content="https://www.samuelworkman.org/blog/four_principles_data_collection/featured.jpg" >
+        <meta property="twitter:card" content="summary_large_image">
+        <meta name="twitter:image" content="https://www.samuelworkman.org/blog/four_principles_data_collection/featured.jpg" >
+    
+    
+  <meta itemprop="name" content="Four Principles of Data Collection">
+<meta itemprop="description" content="I’ve spent an academic lifetime compiling original data sets, both in my work and as part of broader research teams. In doing so, I have become quite opinionated about the role of data in science, its collection, and its organization. In this post, I detail four principles of data collection and organization useful to any analyst needing to collect data, whether by hand or machine. Often, students, junior scholars, business analysts, and public managers engage in data collection."><meta itemprop="datePublished" content="2020-05-13T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2020-05-13T00:00:00+00:00" />
+<meta itemprop="wordCount" content="1801"><meta itemprop="image" content="https://www.samuelworkman.org/blog/four_principles_data_collection/featured.jpg">
+<meta itemprop="keywords" content="" />
+  
+  
+  <!--[if IE]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/img/favicon.ico" type="image/x-icon">
+  
+  
+  <link rel="stylesheet" href="/style.main.min.51048f8224904aac943a02f6057e4a47960d1d64abe43e43820ed1b3017122c1.css" integrity="sha256-UQSPgiSQSqyUOgL2BX5KR5YNHWSr5D5Dgg7RswFxIsE=" media="screen">
+  
+  
+  <script src="/panelset.min.8f4cba0107356728f266d94a12a4d18ef504eda8a9a284cda73675bae7884a68.js" type="text/javascript"></script>
+  
+  
+  <script src="/main.min.7bcb1f361d5947eb492c97b3de6c31ead4c307138c7411ce84a1594bd2fb81bc.js" type="text/javascript"></script>
+</head>
+<body>
+      <div class="grid-container single">
+<header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
+  <nav class="site-nav db dt-l w-100" role="navigation">
+    <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="https://www.samuelworkman.org" title="Home">
+      <img src="/img/wv_silhouette_no_bg.png" class="dib db-l h2 w-auto" alt="Samuel Workman">
+    </a>
+    <div class="site-links db dtc-l v-mid w-100 w-47-l tc tr-l mt3 mt0-l ttu tracked">
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/about/" title="About Blogophonic">About</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 active" href="/blog/" title="Blog">Blog</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/project/" title="Project Portfolio">Projects</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/talk/" title="Talks">Talks</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/collection/" title="A collection">A collection</a>
+      
+        
+        
+        
+      <a class="link f6 f5-l dib pv1 ph2 " href="/elements/" title="Element Page">Elements</a>
+      
+      
+    </div>
+  </nav>
+</header>
+
+<main class="page-main pa4" role="main">
+  <section class="page-content mw7 center">
+    <article class="post-content pa0 ph4-l">
+      <header class="post-header">
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Four Principles of Data Collection</h1>
+        <h4 class="f4 mt0 mb4 lh-title measure">Whether in business, the public sector, or the academy, answering questions and making decisions depends first on information garnered in observation — recording and preserving data.</h4>
+        <p class="f6 measure lh-copy mv1">By Sam Workman in <a href="https://www.samuelworkman.org/categories/data-science">Data Science</a> </p>
+        <p class="f7 db mv0 ttu">May 13, 2020</p>
+
+      
+
+      </header>
+      <section class="post-body pt5 pb4">
+        <p>I’ve spent an academic lifetime compiling original data sets, both in my work and as part of broader research teams. In doing so, I have become quite opinionated about the role of data in science, its collection, and its organization. In this post, I detail four principles of data collection and organization useful to any analyst needing to collect data, whether by hand or machine. Often, students, junior scholars, business analysts, and public managers engage in data collection. Yet, it receives scant attention in most curricula. Despite the rise of data science, with its tools for scraping, parsing, and automating cleaning, organization, and learning processes, many of us still need to collect our data.</p>
+<p>I study elite texts and policy documents quantitatively. My projects address the bureaucracy, policy implementation, and regulatory policy. My book uses data from almost a quarter-million regulatory proposals, and I am currently working on a National Science Foundation (NSF) funded project that examines a 100k public comments on regulations by paragraph.</p>
+<p>I also teach undergraduate and graduate-level statistics at a large public university. I am often struck by students who understand the conceptual logic of statistics and how to build regression models but have little intuition for how to collect and organize data. Even as data science and statistics begin to exert more influence in everyday management, I find this intuition even more lacking in the private sector. The following set of fundamental principles serve as a guide to data collection. Fidelity to them will improve the quality of data and the impact it can have on decision-making — whether for research or public and private sector management.</p>
+
+
+
+
+<h2 id="be-faithful-to-the-data-generating-process">Be Faithful to the Data-Generating Process
+  <a href="#be-faithful-to-the-data-generating-process"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h2>
+<p>We most often discuss or characterize science, or learning, as a process revolving around theory and hypothesis-testing. This depiction is only partly accurate. At its bud, science is structured observation. Without precise recording and preservation of observations, developing and testing theory is not possible. Moreover, science is not reproducible.</p>
+<p>Data are the result of social, biological, or physical processes. The world doesn’t give us half-persons, percentages, or log-dollars; it gives us people, counts, and dollars. Fidelity to the data-generating process allows us to improve calculation and measurement in the process of iterative decision-making and the transitions between cycles of inductive and deductive reasoning.</p>
+
+
+
+
+<h3 id="principle-1-record-data-dont-calculate-or-transform-it">Principle 1: Record data; don’t calculate or transform it.
+  <a href="#principle-1-record-data-dont-calculate-or-transform-it"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h3>
+<p>In the past, the data limitations of available spreadsheets or databases (e.g., MS Excel or MS Access) limited the number of characters one could store in a cell or the number of rows a given data set could contain. These limitations meant keeping a record of the original form of the data was challenging, and required lots of files and space. Thankfully, this is no longer the case for most spreadsheet applications. (SQL or SQLite databases quickly deal with remaining limitations.) Given these advancements, store data as-is during collection.</p>
+<p><em>1A: If possible, store data as text or in text compatible format.</em></p>
+<p>Data collection is not the only danger present in obtaining data faithful to the data-generating process. Programs, especially ‘tooled-up’ spreadsheets, often add hidden structure or content to data. For example, leading or trailing whitespace is particularly annoying, because the problem is not readily visible. Other issues involve storing text as numbers or vice versa and reading all character strings as factor variables. For this reason, it’s advisable to store data you collect as text or text compatible files (e.g., .txt or .csv ‘delimited’ files).</p>
+<p><em>1B: Back up data.</em></p>
+<p>There is no need for a lot of words here. Store your data in multiple locations. And, if essential, one of those should be a physical hard-drive — all clouds have glitches from time to time. And, if following these principles, you should only need to store the original, text-based file.</p>
+
+
+
+
+<h3 id="principle-2-curate-data-organization">Principle 2: Curate Data Organization
+  <a href="#principle-2-curate-data-organization"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h3>
+<p>Once data are collected, the first thing to do is to wrap your mind around its structure. I use the word “curate” here because it implies a careful (re)organization of the data — something done with thought. Data is easily transitioned between “wide” or “long” format, so long as its structure and organization are consistent. (The difference between wide and long format data could be a separate post.)</p>
+<p><em>2A: Observations appear in rows; variables appear in columns; values for observations on variables appear in the matrix of cells between them.</em></p>
+<p>The essential concern of data organization is the distinction between observations and variables or indicators. Observations, subjects, or cases always appear in rows; variables appear in columns. (The first column contains the row [i.e., observation] labels.)</p>
+<p><em>2B: Nesting structure should appear in columns, not rows.</em></p>
+<p>Observations may contain groupings. Examples include time, geographic location, repeated tests, religions, etc. In business, common clusters are divisions, categories, or stores. These types of groupings should not be displayed in rows (with an indentation or any other means), but instead should appear as separate variables in columns. In a national survey, for example, respondents’ state of residence may be recorded. ‘State’ should appear in a column somewhere to the right of the row labels in a column of its own — with column label “state.”</p>
+<p>Business calculations provide an excellent example of this violation. In my forays into business consulting, I often see periods displayed chronologically in columns. It makes sense when you are calculating singular values from these columns, but doing anything else with the data is nigh-on impossible, absent considerable reorganization, especially if rows contain nesting. Periods are grouping variables and should appear in their column.</p>
+<p><em>2C: Beware complicated row, column, or value labels.</em></p>
+<p>Row, column, or value labels with case sensitive characters, special characters, or whitespace cause problems in analytical software beyond the spreadsheet (they can be a problem within the spreadsheet as well). Use lower cases that fully denote the observation, variable, or label, unless data is used as-is. Avoid spaces. Use underscores rather than periods to indicate white space. Avoid special characters — “percent” or “pct” is better than “%.”</p>
+<p>Finally, realize that organization and labels are meaningful because others will use your data. We generally do not produce data for single-use cases. Clean data with simple organization fosters its use and a shared understanding of procedures and analysis.</p>
+
+
+
+
+<h3 id="principle-3-calculation-and-categorization-are-external-to-data-collection">Principle 3: Calculation and categorization are external to data collection.
+  <a href="#principle-3-calculation-and-categorization-are-external-to-data-collection"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h3>
+<p>Remember that measures are models of observations. Measures are not wholly faithful representations of data. By recording observations faithfully and in their original form, the map from observation to measure is visible, allowing for assessment, reproduction, updating, and adjustment.</p>
+<p>I find beginning analysts (especially students) often misunderstand what data are, mistaking them for statistics calculated from data (e.g., means are not data, but parsimonious representations of data). The misunderstanding is often due to us older analysts not spending much time teaching what data are or conveying what is vital about data collection.</p>
+<p><em>3A: All calculations should occur outside the data repository.</em></p>
+<p>In business, the spreadsheet is the engine of analysis. Principle 3 is met by merely keeping an original, un-adulterated copy of the data in a separate sheet or file. For social scientists, all calculations and other statistical procedures should occur in statistical programs and not in the native data. In either realm, parsing calculations and analytical methods from data collection and preservation has logistical benefits. Updating an analysis means merely updating the data set (again in the native form) called by the procedure if scripts and functions are well-documented. Automating reporting and analysis is a big deal in both the public and private sectors. Carrying calculations, summaries, and analysis within the data structure gets in the way of efficient updating.</p>
+<p><em>3B: Do not summarize data during collection.</em></p>
+<p>Unless the need is pressing, do not summarize data during collection. Summaries necessarily imply the loss of information. The prohibition of summarizing includes the calculation of things like totals and averages within the data structure. Again, remember to be faithful to the data-generating process. All summaries are easily repeatable with well-documented analytical routines.</p>
+<p>In the case of text-as-data, you should endeavor to carry the full text alongside the summary if a summary is required. Again, this summary should occur after collection.</p>
+
+
+
+
+<h3 id="principle-4-if-wrong-be-wrong-consistently">Principle 4: If wrong, be wrong consistently.
+  <a href="#principle-4-if-wrong-be-wrong-consistently"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h3>
+<p>This principle may sound odd at first, and it requires an understanding of the distinction between reliability and validity for classification or categorization. For purposes here, validity is simply whether an observation is put in the “right” category or classified “correctly.” Reliability pertains to whether observations, cases, subjects, or items that are alike are categorized or classified in the same way. Both qualities are essential for data collection and measurement.</p>
+<p><em>4A: Privilege reliability over validity in initial attempts to classify or categorize data.</em></p>
+<p>I have employed or developed myriad categorization and classification schemes. These adventures have taught me that being consistently wrong in classification or categorization is better than being right on average, but with wide variance. Getting classification or categorization correct (imbued with validity) is an iterative process that is facilitated by high degrees of reliability. There are three contexts in which you find yourself adjusting assigned categories or classifications:</p>
+<ol>
+<li>Classification is not correct, but reliability is high.</li>
+<li>Classification is correct on average, but reliability is low.</li>
+<li>Classification is not correct, and reliability is low.</li>
+</ol>
+<p>If finding yourself in the first situation, adjustment is easy, because all incorrect classifications can be assigned a new classification en masse. Note, however, number two means all data must be re-coded observation by observation. In other words, you must repeat the entire endeavor for want of reliability. Finally, number three means you probably don’t understand the concept well enough yet to be classifying observations.</p>
+<p><em>4B: Classification or categorization should be mutually exclusive.</em></p>
+<p>Ambiguous and double categorization is the enemy of reliability. Within a column, each observation should receive one and only one code. Taken together, 4A and 4B are the enemies of comparison. It is essential to remember that all research and analysis (whether public, private, or academic sectors), is an effort to compare things across time or space and make choices about what to do. If you feel the need to double categorize cases or observations, do so in a separate column. Though remember, if codes are reliable, the safety net of double coding isn’t as necessary.</p>
+
+
+
+
+<h2 id="in-summation">In Summation
+  <a href="#in-summation"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+      <path d="M0 0h24v24H0z" fill="currentColor"></path>
+      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
+    </svg></a>
+</h2>
+<p>Whether in business, the public sector, or the academy, answering questions and making decisions depends first on information garnered in observation — recording and preserving data. There is nothing complicated about employing these principles, and they make life much easier for the analyst. On a final note, it is always tempting to use existing data sets. It’s great when data are adaptable to many questions. Use caution. All data exists for a purpose likely unrelated to your own. These principles cannot answer the conceptual problem of fit between your objective and existing data.</p>
+
+        
+        <details closed class="f6 fw7 input-reset">
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Posted on:</dt>
+    <dd class="fw5 ml0">May 13, 2020</dd>
+  </dl>
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Length:</dt>
+    <dd class="fw5 ml0">9 minute read, 1801 words</dd>
+  </dl>
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">Categories:</dt>
+    <dd class="fw5 ml0"> <a href="https://www.samuelworkman.org/categories/data-science">Data Science</a> </dd>
+  </dl>
+  
+  
+  
+  <dl class="f6 lh-copy">
+    <dt class="fw7">See Also:</dt>
+    
+  </dl>
+</details>
+
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+  
+    <a class="prev dtc pr2 tl v-top fw6"
+    href="https://www.samuelworkman.org/blog/rmarkdown/">&larr; An Rmarkdown post</a>
+  
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="https://www.samuelworkman.org/blog/css-grid-scaffold/">CSS Grid Scaffold &rarr;</a>
+  
+</div>
+
+      </footer>
+    </article>
+    
+      
+<div class="post-comments pa0 pa4-l mt4">
+  
+  <script src="https://utteranc.es/client.js"
+          repo="SamuelWorkman/samuelworkman"
+          issue-term="pathname"
+          theme="boxy-light"
+          label="comments :crystal_ball:"
+          crossorigin="anonymous"
+          async
+          type="text/javascript">
+  </script>
+  
+</div>
+
+    
+  </section>
+</main>
+<footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">
+  <nav class="db dt-l w-100">
+    <p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">
+      &copy 2022 Samuel Workman.
+      <span class="middot-divider"></span>
+      Made with <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/hugo-apero/" rel="dct:source">Hugo Apéro</a></span>.
+      <br />
+      
+Based on <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/formspree/blogophonic-hugo" rel="dct:source">Blogophonic</a></span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://formspree.io" property="cc:attributionName" rel="cc:attributionURL">Formspree</a>.
+    </p>
+    
+    <div class="site-links f6 db dtc-l v-mid w-100 w-67-l tc tr-l pv2 pv0-l mv0">
+      
+      <a class="dib pv1 ph2 link" href="/license/" title="License">License</a>
+      
+      <a class="dib pv1 ph2 link" href="/contact/" title="Contact form">Contact</a>
+      
+      <a class="dib pv1 ph2 link" href="/contributors/" title="Contributors">Contributors</a>
+      
+    </div>
+  </nav>
+  
+    <script>
+
+    var i, text, code, codes = document.getElementsByTagName('code');
+    for (let i = 0; i < codes.length;) {
+      code = codes[i];
+      if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+        text = code.textContent;
+        if (/^\$[^$]/.test(text) && /[^$]\$$/.test(text)) {
+          text = text.replace(/^\$/, '\\(').replace(/\$$/, '\\)');
+          code.textContent = text;
+        }
+        if (/^\\\((.|\s)+\\\)$/.test(text) ||
+            /^\\\[(.|\s)+\\\]$/.test(text) ||
+            /^\$(.|\s)+\$$/.test(text) ||
+            /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+          code.outerHTML = code.innerHTML;  
+          continue;
+        }
+      }
+      i++;
+    }
+</script>
+
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.css" integrity="sha384-RZU/ijkSsFbcmivfdRBQDtwuwVqK7GMOw6IMvKyeWL2K5UAlyp6WonmB8m7Jd0Hn" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/katex.min.js" integrity="sha384-pK1WpvzWVBQiP0/GjnvRxV4mOb0oxFuyRxJlk6vVw146n3egcN5C925NCP7a7BY8" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.13/dist/contrib/auto-render.min.js" integrity="sha384-vZTG03m+2yp6N6BNi5iM4rW4oIwk5DfcNdFfxkk9ZWpDriOkXX8voJBFrAO7MpVl" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
+
+
+    
+  
+  
+</footer>
+
+      </div>
+    </body>
+</html>

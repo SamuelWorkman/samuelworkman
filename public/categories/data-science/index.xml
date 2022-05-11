@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science on Samuel Workman</title>
+    <link>https://www.samuelworkman.org/categories/data-science/</link>
+    <description>Recent content in Data Science on Samuel Workman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy 2022 Samuel Workman.</copyright>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.samuelworkman.org/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Four Principles of Data Collection</title>
+      <link>https://www.samuelworkman.org/blog/four_principles_data_collection/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samuelworkman.org/blog/four_principles_data_collection/</guid>
+      <description>I’ve spent an academic lifetime compiling original data sets, both in my work and as part of broader research teams. In doing so, I have become quite opinionated about the role of data in science, its collection, and its organization. In this post, I detail four principles of data collection and organization useful to any analyst needing to collect data, whether by hand or machine. Often, students, junior scholars, business analysts, and public managers engage in data collection.</description>
+    </item>
+    
+  </channel>
+</rss>
