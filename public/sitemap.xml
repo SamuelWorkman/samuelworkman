@@ -38,43 +38,16 @@
     <loc>https://www.samuelworkman.org/collection/day02/03-blogdown/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.samuelworkman.org/blog/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/categories/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/blog/social/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/categories/theme-features/</loc>
-    <lastmod>2021-01-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/tags/style/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/blog/color-themes/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/blog/fonts/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/tags/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.samuelworkman.org/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.samuelworkman.org/blog/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/categories/evergreen/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://www.samuelworkman.org/</loc>
+    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/talk/campfire/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/categories/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/talk/</loc>
@@ -82,6 +55,9 @@
   </url><url>
     <loc>https://www.samuelworkman.org/categories/workshop/</loc>
     <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/blog/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/series/a-spoonful-of-hugo/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
@@ -96,6 +72,12 @@
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/series/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/tags/</loc>
+    <lastmod>2021-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/categories/theme-features/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/blog/seedling/</loc>
