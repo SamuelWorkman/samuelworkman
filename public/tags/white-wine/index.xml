@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>white wine on Samuel Workman</title>
+    <link>https://www.samuelworkman.org/tags/white-wine/</link>
+    <description>Recent content in white wine on Samuel Workman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy 2022 Samuel Workman.</copyright>
+    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.samuelworkman.org/tags/white-wine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>White Wine Spritz</title>
+      <link>https://www.samuelworkman.org/codex/white_wine_spritz/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samuelworkman.org/codex/white_wine_spritz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

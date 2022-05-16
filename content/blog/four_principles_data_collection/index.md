@@ -8,6 +8,11 @@ excerpt: Simplify and streamline analysis by doing less to the data.
 layout: single
 subtitle: Whether in business, the public sector, or the academy, answering questions and making decisions depends first on information garnered in observation — recording and preserving data.
 title: Four Principles of Data Collection
+tags:
+  - data collection
+  - classification
+categories:
+  - data science
 ---
 
 I’ve spent an academic lifetime compiling original data sets, both in my work and as part of broader research teams. In doing so, I have become quite opinionated about the role of data in science, its collection, and its organization. In this post, I detail four principles of data collection and organization useful to any analyst needing to collect data, whether by hand or machine. Often, students, junior scholars, business analysts, and public managers engage in data collection. Yet, it receives scant attention in most curricula. Despite the rise of data science, with its tools for scraping, parsing, and automating cleaning, organization, and learning processes, many of us still need to collect our data.
