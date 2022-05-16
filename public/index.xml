@@ -129,20 +129,6 @@ My content section is: collection  My layout is: single-series   part 2!     doe
     </item>
     
     <item>
-      <title>Using panelsets</title>
-      <link>https://www.samuelworkman.org/blog/seedling/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.samuelworkman.org/blog/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
-For example, this panelset:
-Hello! 👋 hello
- Goodbye 💨 goodbye
-  Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
-{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}}  hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}}  goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:</description>
-    </item>
-    
-    <item>
       <title>A seedling</title>
       <link>https://www.samuelworkman.org/talk/second-seedling/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
