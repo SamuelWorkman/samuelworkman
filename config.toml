@@ -140,21 +140,16 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
-  [[menu.header]]
-    name = "Codex"
-    title = "Recipes"
-    url = "/codex/"
-    weight = 4
   #[[menu.header]]
     #name = "Talks"
     #title = "Talks"
     #url = "/talk/"
     #weight = 4
-  #[[menu.header]]
-    #name = "A collection"
-    #title = "A collection"
-    #url = "/collection/"
-    #weight = 5
+  [[menu.header]]
+    name = "Codex"
+    title = "Codex"
+    url = "/codex/"
+    weight = 4
     
   # Configure footer  
   [[menu.footer]]
