@@ -18,7 +18,7 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Sam Workman
-  description: "The blog uses categories, tags, and series to group topics. The blog addresses public policy, data science, issues in Appalachia, rural politics and policy, and imbibing culture and reviews, and recommendations."
+  description: "The blog uses categories, tags, and series to group topics. The blog addresses public policy, data science, issues in Appalachia and West Virginia."
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml

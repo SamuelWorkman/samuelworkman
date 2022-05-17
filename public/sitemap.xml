@@ -2,58 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.samuelworkman.org/collection/day02/01-netlify/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/collection/day01/01-github/</loc>
+    <loc>https://www.samuelworkman.org/codex/white_wine_spritz/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.samuelworkman.org/collection/prework/</loc>
+    <loc>https://www.samuelworkman.org/codex/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/collection/day01/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/collection/day01/02-postcards/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/collection/day02/02-blogdown/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/collection/day02/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/collection/day01/03-distill/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/collection/day02/03-blogdown/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/collection/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/talk/campfire/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/categories/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/talk/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/categories/workshop/</loc>
-    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/talk/second-seedling/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/categories/meetup/</loc>
-    <lastmod>2021-01-01T14:15:59-06:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/blog/</loc>
+    <lastmod>2020-05-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/categories/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/tags/classification/</loc>
@@ -70,9 +31,6 @@
   </url><url>
     <loc>https://www.samuelworkman.org/tags/</loc>
     <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/talk/seedling/</loc>
-    <lastmod>2020-01-13T14:15:59-06:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/project/</loc>
     <lastmod>2019-07-03T00:00:00+00:00</lastmod>
@@ -103,11 +61,6 @@
   </url><url>
     <loc>https://www.samuelworkman.org/form/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/elements/</loc>
-    <lastmod>2019-02-18T12:27:33-06:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/codex/</loc>
   </url><url>
     <loc>https://www.samuelworkman.org/about/</loc>
   </url><url>
