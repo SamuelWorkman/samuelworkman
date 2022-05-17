@@ -9,11 +9,47 @@
     <copyright>&amp;copy 2022 Samuel Workman.</copyright>
     <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.samuelworkman.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>classification</title>
+      <link>https://www.samuelworkman.org/tags/classification/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samuelworkman.org/tags/classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>club soda</title>
       <link>https://www.samuelworkman.org/tags/club-soda/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://www.samuelworkman.org/tags/club-soda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>education</title>
+      <link>https://www.samuelworkman.org/tags/education/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samuelworkman.org/tags/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interest groups</title>
+      <link>https://www.samuelworkman.org/tags/interest-groups/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samuelworkman.org/tags/interest-groups/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>measurement</title>
+      <link>https://www.samuelworkman.org/tags/measurement/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samuelworkman.org/tags/measurement/</guid>
       <description></description>
     </item>
     
@@ -36,15 +72,6 @@
     </item>
     
     <item>
-      <title>classification</title>
-      <link>https://www.samuelworkman.org/tags/classification/</link>
-      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.samuelworkman.org/tags/classification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>data collection</title>
       <link>https://www.samuelworkman.org/tags/data-collection/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
@@ -56,7 +83,7 @@
     <item>
       <title>hugo-site</title>
       <link>https://www.samuelworkman.org/tags/hugo-site/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.samuelworkman.org/tags/hugo-site/</guid>
       <description></description>

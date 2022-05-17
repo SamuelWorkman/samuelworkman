@@ -9,6 +9,15 @@
     <copyright>&amp;copy 2022 Samuel Workman.</copyright>
     <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.samuelworkman.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>The Use of Research in Education Policy</title>
+      <link>https://www.samuelworkman.org/project/giraffes/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samuelworkman.org/project/giraffes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>White Wine Spritz</title>
       <link>https://www.samuelworkman.org/codex/white_wine_spritz/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
@@ -24,15 +33,6 @@
       
       <guid>https://www.samuelworkman.org/blog/four_principles_data_collection/</guid>
       <description>I’ve spent an academic lifetime compiling original data sets, both in my work and as part of broader research teams. In doing so, I have become quite opinionated about the role of data in science, its collection, and its organization. In this post, I detail four principles of data collection and organization useful to any analyst needing to collect data, whether by hand or machine. Often, students, junior scholars, business analysts, and public managers engage in data collection.</description>
-    </item>
-    
-    <item>
-      <title>Tachyons for Style</title>
-      <link>https://www.samuelworkman.org/project/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.samuelworkman.org/project/giraffes/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
     </item>
     
     <item>

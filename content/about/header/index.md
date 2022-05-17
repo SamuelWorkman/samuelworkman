@@ -9,3 +9,5 @@ headline: |
 Welcome to my personal home on the web. If you stay for a bit, you will find descriptions of current projects, data, and cocktail recipe or two. I love travel, good food and wine, and curated gardens.
 
 When I write, the blog addresses data science, rural politics and public policy, travel, and issues of interest in Appalachia. Speaking of Appalachia, learn to say it like this Appalachian below in the sidebar.
+
+This website is a relaunching of my old site. It's spartan initially but will fill up in due time. I needed a new theme and a new start for a career change and new scenery.
