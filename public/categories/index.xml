@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy 2022 Samuel Workman.</copyright>
-    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.samuelworkman.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.samuelworkman.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>glass</title>
+      <link>https://www.samuelworkman.org/categories/glass/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samuelworkman.org/categories/glass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low abv</title>
+      <link>https://www.samuelworkman.org/categories/low-abv/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samuelworkman.org/categories/low-abv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wine</title>
+      <link>https://www.samuelworkman.org/categories/wine/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.samuelworkman.org/categories/wine/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>data science</title>
       <link>https://www.samuelworkman.org/categories/data-science/</link>

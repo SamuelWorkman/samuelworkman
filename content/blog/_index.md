@@ -18,7 +18,7 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Sam Workman
-  description: "The blog uses categories, tags, and series to group topics. The blog addresses public policy, data science, issues in Appalachia and West Virginia."
+  description: "The blog uses categories, tags, and series to group topics. The blog addresses public policy, data science, issues in Appalachia and West Virginia. You will also find some of these posts at [Towards Data Science](https://towardsdatascience.com/) or [3StreamsBlog](https://medium.com/3streams), where I write on practical applications of data science and public policy."
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
