@@ -1,8 +1,8 @@
 baseURL = "https://www.samuelworkman.org"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Samuel Workman"
-author = "Samuel Workman"
+title = "Sam Workman"
+author = "Sam Workman"
 copyright = "&copy 2022 Samuel Workman." # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus

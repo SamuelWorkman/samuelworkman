@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Samuel Workman</title>
+    <title>Categories on Sam Workman</title>
     <link>https://www.samuelworkman.org/categories/</link>
-    <description>Recent content in Categories on Samuel Workman</description>
+    <description>Recent content in Categories on Sam Workman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy 2022 Samuel Workman.</copyright>
@@ -50,33 +50,6 @@
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.samuelworkman.org/categories/data-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>package</title>
-      <link>https://www.samuelworkman.org/categories/package/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.samuelworkman.org/categories/package/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://www.samuelworkman.org/categories/r/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.samuelworkman.org/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme Features</title>
-      <link>https://www.samuelworkman.org/categories/theme-features/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.samuelworkman.org/categories/theme-features/</guid>
       <description></description>
     </item>
     

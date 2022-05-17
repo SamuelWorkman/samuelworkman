@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Samuel Workman</title>
+    <title>Samuel Workman on Sam Workman</title>
     <link>https://www.samuelworkman.org/</link>
-    <description>Recent content on Samuel Workman</description>
+    <description>Recent content in Samuel Workman on Sam Workman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy 2022 Samuel Workman.</copyright>
     <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.samuelworkman.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Use of Research in Education Policy</title>
-      <link>https://www.samuelworkman.org/project/giraffes/</link>
+      <link>https://www.samuelworkman.org/project/edregs/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.samuelworkman.org/project/giraffes/</guid>
-      <description></description>
+      <guid>https://www.samuelworkman.org/project/edregs/</guid>
+      <description>This is a long-term project funded by the National Science Foundation (NSF) in award #1827494. With colleagues Deven Carlson, Elizabeth Bell, and Tracy Bark, the project explores how interest groups use research and data in argumentation about education policy. The project is unique in looking at proposed regulations and how groups craft arguments in the proposal development stage.
+To do this, we examine a large dataset of public comments on education policies by paragraph&amp;mdash;over 90k comments.</description>
     </item>
     
     <item>
@@ -33,25 +34,6 @@
       
       <guid>https://www.samuelworkman.org/blog/four_principles_data_collection/</guid>
       <description>I’ve spent an academic lifetime compiling original data sets, both in my work and as part of broader research teams. In doing so, I have become quite opinionated about the role of data in science, its collection, and its organization. In this post, I detail four principles of data collection and organization useful to any analyst needing to collect data, whether by hand or machine. Often, students, junior scholars, business analysts, and public managers engage in data collection.</description>
-    </item>
-    
-    <item>
-      <title>Palmer Penguins</title>
-      <link>https://www.samuelworkman.org/project/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.samuelworkman.org/project/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Bakeoff</title>
-      <link>https://www.samuelworkman.org/project/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.samuelworkman.org/project/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
     </item>
     
     <item>

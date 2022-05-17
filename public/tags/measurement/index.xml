@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>measurement on Samuel Workman</title>
+    <title>measurement on Sam Workman</title>
     <link>https://www.samuelworkman.org/tags/measurement/</link>
-    <description>Recent content in measurement on Samuel Workman</description>
+    <description>Recent content in measurement on Sam Workman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy 2022 Samuel Workman.</copyright>
     <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.samuelworkman.org/tags/measurement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Use of Research in Education Policy</title>
-      <link>https://www.samuelworkman.org/project/giraffes/</link>
+      <link>https://www.samuelworkman.org/project/edregs/</link>
       <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://www.samuelworkman.org/project/giraffes/</guid>
-      <description></description>
+      <guid>https://www.samuelworkman.org/project/edregs/</guid>
+      <description>This is a long-term project funded by the National Science Foundation (NSF) in award #1827494. With colleagues Deven Carlson, Elizabeth Bell, and Tracy Bark, the project explores how interest groups use research and data in argumentation about education policy. The project is unique in looking at proposed regulations and how groups craft arguments in the proposal development stage.
+To do this, we examine a large dataset of public comments on education policies by paragraph&amp;mdash;over 90k comments.</description>
     </item>
     
   </channel>

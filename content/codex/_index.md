@@ -18,12 +18,13 @@ show_button_links: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
+  sidebar_left: true
   author: Sam Workman
   description: "Recipes, recommendations, and protocols for an evening well spent."
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /codex/
   title: Drinks and Possibilities with Friends and Enemies 
-thumbnail_left: true
+thumbnail_left: false
 title: The Codex
 ---

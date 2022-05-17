@@ -23,7 +23,7 @@ sidebar:
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   title: Pull up a chair for Uncle Sam 
-thumbnail_left: true
+thumbnail_left: false
 title: A Blog That Works
 ---
 
