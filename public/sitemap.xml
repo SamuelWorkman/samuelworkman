@@ -3,15 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.samuelworkman.org/categories/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/project/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/tags/decor/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/tags/furniture/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/categories/home-improvement/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/tags/porch/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/project/porch_life/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/tags/social-life/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/tags/</loc>
+    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/tags/classification/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/tags/club-soda/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/project/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/tags/education/</loc>
@@ -35,12 +59,6 @@
     <loc>https://www.samuelworkman.org/categories/research/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.samuelworkman.org/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.samuelworkman.org/tags/</loc>
-    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.samuelworkman.org/codex/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -54,6 +72,9 @@
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/categories/wine/</loc>
+    <lastmod>2022-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.samuelworkman.org/tags/wine-glass/</loc>
     <lastmod>2022-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.samuelworkman.org/blog/</loc>
